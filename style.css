@@ -1,0 +1,17 @@
+#LOGO {
+    height: 300px;
+  width: 600px;
+}
+
+#login {
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+  padding:  3px;
+
+}
+
+#summary {
+    font-size: 40px;
+}
